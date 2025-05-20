@@ -1,9 +1,9 @@
 <!-- Olá visitante 👋 -->
-<h1 align="center">Olá, eu sou o [Seu Nome] 👨‍💻</h1>
+<h1 align="center">Olá, eu sou o Matheus Ruivo 👨‍💻</h1>
 
 <p align="center">
   Desenvolvedor Front-end migrando para o Back-end 💻☁️ <br>
-  Apaixonado por código limpo, tecnologia e aprendizado contínuo 🚀
+  Apaixonado por  tecnologia e aprendizado contínuo 🚀
 </p>
 
 ---
